@@ -1,0 +1,22 @@
+.whitefont{
+    color: violet;
+    font-family: cursive;
+}
+.witec{
+    color: lightgreen;
+}
+.middle{
+   margin: 30px 0px;
+   margin-left: 400px;
+}
+.border{
+    border: 2px solid lightcoral;
+    width: fit-content;
+    padding: 10px 20px;
+}
+.input{
+    color: black;
+    background-color: gray;
+    margin-left: auto;
+    /* padding: 2px 3px; */
+}

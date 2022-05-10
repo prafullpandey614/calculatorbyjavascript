@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+.btn{
+    color: rgb(0, 32, 31);
+    padding: 8px 16px;
+    cursor: pointer;
+    margin: 10px 1px;
+    font-size: 20px;
+    background-color: lightseagreen;
+}
+.container{
+    align-items: center;
+    /* background-color: gray; */
+    margin-left: 550px;
+    padding: 10px 20px;
+}

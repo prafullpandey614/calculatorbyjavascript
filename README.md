@@ -1,1 +1,2 @@
 # calculatorbyjavascript
+Contributed By Amit
